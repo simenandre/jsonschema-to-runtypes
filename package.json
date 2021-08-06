@@ -28,7 +28,7 @@
     "runtypes": "^5.0.2",
     "stdin": "^0.0.1",
     "ts-morph": "^10.0.1",
-    "typescript": "~4.1.3"
+    "typescript": "~4.2.4"
   },
   "devDependencies": {
     "@types/faker": "^5.1.7",
