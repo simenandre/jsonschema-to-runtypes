@@ -4419,6 +4419,11 @@ runtypes@^5.0.2:
   resolved "https://registry.yarnpkg.com/runtypes/-/runtypes-5.0.2.tgz#8c73395945b949e9825fc0552eb6125ffa8e5f6f"
   integrity sha512-nTxOwXAGBFmhDydzYaeHBcuMDf1bvn4PsisMmC+Lh03PppSBKkbPQ/MWiT2pp2UEyApBvfSvUhnwC5aWG5w0ng==
 
+runtypes@^6.5.0:
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/runtypes/-/runtypes-6.5.0.tgz#019c70c8f20659ca0339c95cb1e881573ba30d82"
+  integrity sha512-+jK1mRi6KvZ9m+LGxCYUY9CJMxCLz8LDRiGtBrq5UKvgOv2MocrXMc2D1dDkY7gRR8BzfG64yTsGdS2aC7arpQ==
+
 rxjs@^6.6.6:
   version "6.6.6"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.6.tgz#14d8417aa5a07c5e633995b525e1e3c0dec03b70"
