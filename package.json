@@ -1,7 +1,7 @@
 {
   "name": "jsonschema-to-runtypes",
   "version": "1.0.0",
-  "repository": "github:cobraz/jsonschema-to-runtypes",
+  "repository": "github:simenandre/jsonschema-to-runtypes",
   "license": "Apache-2.0",
   "main": "dist/index.js",
   "scripts": {
